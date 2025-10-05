@@ -4,7 +4,7 @@ Building AI systems and influence architecture at scale.
 
 ## What I Do
 
-**Founder @ Meridian Strategic Systems** — Running experiments in cognitive systems, behavioral modeling, and automated influence generation.
+**Founder @ [Meridian Strategic Systems](https://meridianstrategicsystems.com/)** — Running experiments in cognitive systems, behavioral modeling, and automated influence generation.
 
 **Previously:** Director of Engineering @ American Express, Senior Engineering Manager @ Anduril Industries, Senior Engineer @ Shopify
 
