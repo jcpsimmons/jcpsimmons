@@ -1,4 +1,4 @@
-# Dr. Josh Simmons
+# Dr. Josh C. Simmons
 
 Building AI systems and influence architecture at scale.
 
