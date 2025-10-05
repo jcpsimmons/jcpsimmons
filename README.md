@@ -1,6 +1,6 @@
 # Dr. Josh C. Simmons
 
-*NARRATIOESTIMPERIUM*
+`NARRATIOESTIMPERIUM`
 
 Building AI systems and influence architecture at scale.
 
