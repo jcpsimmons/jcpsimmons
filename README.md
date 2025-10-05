@@ -4,9 +4,9 @@ Building AI systems and influence architecture at scale.
 
 ## What I Do
 
-**Director of Engineering @ American Express** — Scaling AI tooling and CI/CD for thousands of engineers.
-
 **Founder @ Meridian Strategic Systems** — Running experiments in cognitive systems, behavioral modeling, and automated influence generation.
+
+**Previously:** Director of Engineering @ American Express, Senior Engineering Manager @ Anduril Industries, Senior Engineer @ Shopify
 
 ## Notable Work
 
