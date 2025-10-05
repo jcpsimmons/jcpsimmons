@@ -1,6 +1,6 @@
 # Dr. Josh C. Simmons
 
-*Narratio Est Imperium*
+*NARRATIOESTIMPERIUM*
 
 Building AI systems and influence architecture at scale.
 
